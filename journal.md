@@ -1,0 +1,1 @@
+I learned about using git in the terminal. I also learned about man.
